@@ -1,4 +1,5 @@
-# design
-Mockup Application
+# Mulai Belajar Design Specification
 
-[Mockup Mulai Belajar](https://www.figma.com/file/IYZFpiDSNgbd3QUsGpSJjRbh/Mulaibelajar)
+## Design Process
+
+[Figma Mockup Mulai Belajar](https://www.figma.com/file/IYZFpiDSNgbd3QUsGpSJjRbh/Mulaibelajar)
